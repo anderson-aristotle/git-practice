@@ -18,7 +18,7 @@ about an hour.
 ## Required Tutorial
 
 If you have any questions during these tutorials, then review your class notes
-and our talk repositories. To do that, navigate to the [General Assembly WDI Boston](https://github.com/ga-wdi-boston)
+and our talk repositories. To do that, navigate to the [General Assembly WDI Boston](https://git.generalassemb.ly/ga-wdi-boston)
 organization on GitHub and use the search box to find our Git repositories.
 
 <img width="400"
@@ -35,42 +35,8 @@ take somewhere between 15 and 30 minutes to complete.
 
 ### Learn Git Branching
 
-We'll focus on visualizing Git commands, especially branching, by working on
-[Learn Git Branching](http://pcottle.github.io/learnGitBranching/) in this
-tutorial. Complete all of the exercises in the following sequences:
-
--   `Main > Introduction Sequence`, levels 1 and 2
--   `Main > Ramping Up`, all levels
-
-<img width="400"
-     alt="learn_git_branching main tab"
-     src="https://cloud.githubusercontent.com/assets/388761/15299488/96c89c52-1b72-11e6-8e4d-4ce2e4268822.png">
-
--   `Remote > Push & Pull`, levels 1 through 6
--   `Remote > To Origin and Beyond`, levels 1 and 3
-
-<img width="400"
-     alt="learn_git_branching remote tab"
-     src="https://cloud.githubusercontent.com/assets/388761/15299518/c0362988-1b72-11e6-92fb-d33d1053a964.png">
-
-Each level in Learn Git Branching will explain the concepts that you are
-expected to use to solve the level. Think of these as instructions and don't
-skip them!
-
-<img width="400"
-     alt="learn_git_branching instructions for level 1"
-     src="https://cloud.githubusercontent.com/assets/388761/15299755/bf8f3b90-1b73-11e6-9325-cbbac378b46f.png">
-
-You'll have an interactive shell to complete each challenge, help buttons that
-display the goal, and a visualization of what the end goal should look like.
-
-<img width="400"
-     alt="learn_git_branching interface"
-     src="https://cloud.githubusercontent.com/assets/388761/15299932/5b266254-1b74-11e6-930f-659a8583c111.png">
-
-This will take longer. If you spend more than an hour on this, then please let a
-consultant know. Some of the [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches)
-may be good references if you get stuck.
+We'll focus on visualizing Git commands, especially branching, by working on [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches)
+this is a great reference if you get stuck on the `Required Tutorial`.
 
 ## Optional Bonus
 
@@ -93,7 +59,7 @@ again.
 ## Required Response
 
 Once you have completed all of the required readings and the required tutorials,
-checkout to a new branch, `response`, and answer the questions in `response.md`.
+checkout to a new branch, `response`, and answer the questions in `study.md`.
 Don't hesitate to add anything else that you want to let us know about your
 experience with this practice or the course so far. After you've answered the
 questions, create a pull request with your response.
