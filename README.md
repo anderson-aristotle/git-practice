@@ -4,9 +4,9 @@
 
 ## Required Reading
 
-Read the entire [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-tutorial from Atlassian, except for the "Gitflow Workflow" section, which is
-optional.
+Read the [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+tutorial from Atlassian, until you get to the "Gitflow Workflow" section, which
+is optional.
 
 It's a solid overview of all of the commands that we've learned and an
 introduction to common patterns that developers use to save their work with Git.
