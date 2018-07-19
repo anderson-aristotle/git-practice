@@ -1,13 +1,5 @@
 # Git Basics: Practice
 
-## Learning Style
-
-How do you learn best?
-
-```md
-<!-- your answer here -->
-```
-
 ## The Most Effective Resource(s)
 
 Which resource(s) from the practice helped you the most?
