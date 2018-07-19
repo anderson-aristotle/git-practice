@@ -27,19 +27,15 @@ If you have any questions during this tutorial, then review your class notes
 and our talk repositories. To find them you can navigate to the [General Assembly WDI Boston](https://git.generalassemb.ly/ga-wdi-boston)
 organization on GitHub and use the search box to find our Git repositories.
 
-<img width="400"
-     alt="general_assembly_wdi_boston"
-     src="https://cloud.githubusercontent.com/assets/388761/10182069/3932739e-66ee-11e5-8763-aa99f76510bf.png">
+![](https://i.imgur.com/TcAbSrU.png)
 
 The image above is just to show how you can use the search feature on GitHub to
-find repositories within an organization.
+find repositories within an organization, this is useful if you want to go back
+to look at a previous lesson but you can't remember the exact name of it.
 
 ## Optional Bonus
 
-If you need more review, then continue by working through the free chapter of
-CodeSchool's [Interactive Git Tutorial](https://www.codeschool.com/courses/git-real).
-
-You may also want to practice targeted review with [Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/),
+If you need more review, you may want to practice targeted review with [Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/),
 one of the best intermediate references available for free online. If you're
 not satisfied with how well you understand a topic, then scan the table of
 contents and give yourself a set amount of time to review it. After time is up,
@@ -54,7 +50,7 @@ again.
 
 ## Required Response
 
-Once you have completed all of the required readings and the required tutorials,
+Once you have completed the required reading and the required tutorial,
 checkout to a new branch, `response`, and answer the questions in `study.md`.
 Don't hesitate to add anything else that you want to let us know about your
 experience with this practice or the course so far. After you've answered the
