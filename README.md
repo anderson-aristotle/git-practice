@@ -4,39 +4,35 @@
 
 ## Required Reading
 
-Read the [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-tutorial from Atlassian, until you get to the "Gitflow Workflow" section, which
-is optional.
+### Using Git Branches
 
-It's a solid overview of all of the commands that we've learned and an
-introduction to common patterns that developers use to save their work with Git.
-Pay particular attention to the "Feature Branch Workflow" section. It's okay if
-you don't understand the workflows themselves. For now, focus on how the
-commands are being used and how the changes are visualized. This should take
-about an hour.
+We'll focus on visualizing Git commands, especially branching, by working on [Atlassian Git Tutorials - Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
+this is a great reference to keep handy moving forward.
 
 ## Required Tutorial
 
-If you have any questions during these tutorials, then review your class notes
-and our talk repositories. To do that, navigate to the [General Assembly WDI Boston](https://git.generalassemb.ly/ga-wdi-boston)
+### Learn Git Branching
+
+Here is a link to a [Git branching visualization tutorial](https://learngitbranching.js.org/), you are to complete
+excercises 1, 2, and 3 of the Introduction Sequence.
+
+1: Introduction to Git Commits
+2: Branching in Git
+3: Merging in Git
+
+Do not continue on to exercise 4 which is about rebasing, more on that later in
+the course.
+
+If you have any questions during this tutorial, then review your class notes
+and our talk repositories. To find them you can navigate to the [General Assembly WDI Boston](https://git.generalassemb.ly/ga-wdi-boston)
 organization on GitHub and use the search box to find our Git repositories.
 
 <img width="400"
      alt="general_assembly_wdi_boston"
      src="https://cloud.githubusercontent.com/assets/388761/10182069/3932739e-66ee-11e5-8763-aa99f76510bf.png">
 
-### CodeSchool's Try Git
-
-First, let's review the basic Git commands using CodeSchool's excellent, free
-[Try Git](https://try.github.io/levels/1/challenges/1) tutorial. This should
-take somewhere between 15 and 30 minutes to complete.
-
-## Optional Tutorial
-
-### Learn Git Branching
-
-We'll focus on visualizing Git commands, especially branching, by working on [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/using-branches)
-this is a great reference if you get stuck on the `Required Tutorial`.
+The image above is just to show how you can use the search feature on GitHub to
+find repositories within an organization.
 
 ## Optional Bonus
 
