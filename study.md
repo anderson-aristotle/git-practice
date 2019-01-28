@@ -33,7 +33,7 @@ If you have any questions during this tutorial, then review your class notes
 and our talk repositories. To find them you can navigate to the [General Assembly WDI Boston](https://git.generalassemb.ly/ga-wdi-boston)
 organization on GitHub and use the search box to find our Git repositories.
 
-![](https://i.imgur.com/TcAbSrU.png)
+![Screenshot showing search box to find Git repositories](https://i.imgur.com/TcAbSrU.png)
 
 The image above is just to show how you can use the search feature on GitHub to
 find repositories within an organization, this is useful if you want to go back
